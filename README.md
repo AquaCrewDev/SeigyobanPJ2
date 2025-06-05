@@ -29,9 +29,9 @@
 
 ---
 
-## 🔧 ビルド方法
+# 🔧 ビルド方法
 
-以下の手順で各コントローラをビルドしてください。
+以下の手順で各コントローラをビルドしてください：
 
 ```bash
 cd path/to/controllers/
@@ -39,6 +39,7 @@ mkdir build
 cd build
 cmake ..
 make
+
 
 📄 ライセンス
 
